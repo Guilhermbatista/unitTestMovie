@@ -1,7 +1,5 @@
 package com.devsuperior.dsmovie.services;
 
-import static org.hamcrest.CoreMatchers.any;
-
 import java.util.Optional;
 
 import org.junit.jupiter.api.Assertions;
